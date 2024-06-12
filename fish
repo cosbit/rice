@@ -1,0 +1,1 @@
+/home/cosweb/.config/fish
